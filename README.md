@@ -37,5 +37,5 @@ on both synthetic and real data.
 
 This code is free and open source for research purposes. If you use this code, please acknowledge the following paper.
 
-[1] L.T. Thanh, K. Abed-Meraim, N.L. Trung, A. Hafiance. "[*Streaming Tensor-Train Decomposition with Missing Data*](https://drive.google.com/file/d/1pmIGbtrTbG6axDhM-VrfrKqgaDWhMw-z/view?usp=sharing)". **TeckRxiv**, 2022. [[PDF](https://drive.google.com/file/d/1pmIGbtrTbG6axDhM-VrfrKqgaDWhMw-z/view?usp=sharing)].
+[1] L.T. Thanh, K. Abed-Meraim, N.L. Trung, A. Hafiance. "[*Streaming Tensor-Train Decomposition with Missing Data*](https://drive.google.com/file/d/1pmIGbtrTbG6axDhM-VrfrKqgaDWhMw/view?usp=sharing)". **TeckRxiv**, 2022. 
 
