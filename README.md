@@ -31,11 +31,3 @@ on both synthetic and real data.
 
 ![Effect_missing](https://user-images.githubusercontent.com/26319211/175498143-2b895bb9-cd76-47ce-8e93-f18f04ed7b30.PNG)
 
-
-## Reference
-
-
-This code is free and open source for research purposes. If you use this code, please acknowledge the following paper.
-
-[1] L.T. Thanh, K. Abed-Meraim, N.L. Trung, A. Hafiance. "[*Streaming Tensor-Train Decomposition with Missing Data*](https://drive.google.com/file/d/1pmIGbtrTbG6axDhM-VrfrKqgaDWhMw/view?usp=sharing)". **TeckRxiv**, 2022. 
-
