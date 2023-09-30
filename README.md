@@ -1,6 +1,6 @@
 # ATT: A Novel Recursive Least-Squares Adaptive Method For Streaming Tensor-Train Decomposition With Incomplete Observations
 
-Tensor tracking which is referred to as online (adaptive) decomposition of streaming tensors has recently gained much attention in the signal processing community due to the
+Tensor tracking which is referred to as the online (adaptive) decomposition of streaming tensors has recently gained much attention in the signal processing community due to the
 fact that many modern applications generate a huge number of multidimensional data streams over time. In this paper, we propose an effective tensor tracking method via tensor-train
 format for decomposing high-order incomplete streaming tensors. On the arrival of new data, the proposed algorithm minimizes a weighted least-squares objective function accounting for both
 missing values and time-variation constraints on the underlying tensor-train cores, thanks to the recursive least-squares technique and the block coordinate descent framework. Our algorithm is
@@ -18,15 +18,21 @@ on both synthetic and real data.
 ## Demo
 + Run demo_xyz.m for synthetic data
 
-## Some Results
+## Selected Experimental Results
 
 + Noisy data
-
 
 ![effect_noise](https://user-images.githubusercontent.com/26319211/175498006-a9163a09-109e-4a22-97a7-4f4cee2e0c33.PNG)
 
 + Missing data
 
-
 ![Effect_missing](https://user-images.githubusercontent.com/26319211/175498143-2b895bb9-cd76-47ce-8e93-f18f04ed7b30.PNG)
+
+
+## References
+
+If you use this code, please cite the following paper.
+
+[1] **L.T. Thanh**, K. Abed-Meraim, N. L. Trung and A. Hafiane. “[*Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors*](https://www.cell.com/patterns/fulltext/S2666-3899(23)00104-6)”. **CellPress Patterns**, 2023, [[CellPress](https://www.cell.com/patterns/fulltext/S2666-3899(23)00104-6)], [[Techrxiv](https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034)], [[PDF](https://thanhtbt.github.io/files/2023_Patterns_Tensor_Tracking_Draw.pdf)]. 
+
 
