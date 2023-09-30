@@ -1,14 +1,13 @@
-# ATT: Streaming Tensor-Train Decomposition with Missing Data
+# ATT: A Novel Recursive Least-Squares Adaptive Method For Streaming Tensor-Train Decomposition With Incomplete Observations
 
 Tensor tracking which is referred to as online (adaptive) decomposition of streaming tensors has recently gained much attention in the signal processing community due to the
 fact that many modern applications generate a huge number of multidimensional data streams over time. In this paper, we propose an effective tensor tracking method via tensor-train
 format for decomposing high-order incomplete streaming tensors. On the arrival of new data, the proposed algorithm minimizes a weighted least-squares objective function accounting for both
 missing values and time-variation constraints on the underlying tensor-train cores, thanks to the recursive least-squares technique and the block coordinate descent framework. Our algorithm is
-fully capable of tensor tracking from noisy, incomplete, and highdimensional observations in both static and time-varying environments. Its tracking ability is validated with several experiments
+fully capable of tensor tracking from noisy, incomplete, and high-dimensional observations in both static and time-varying environments. Its tracking ability is validated with several experiments
 on both synthetic and real data.
 
 ![tt](https://user-images.githubusercontent.com/26319211/175497122-8f6900e5-740f-4231-97a3-4556114188e7.PNG)
-
 
 
 ## Dependencies 
