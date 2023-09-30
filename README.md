@@ -29,7 +29,7 @@ on both synthetic and real data.
 ![Effect_missing](https://user-images.githubusercontent.com/26319211/175498143-2b895bb9-cd76-47ce-8e93-f18f04ed7b30.PNG)
 
 
-## References
+## Reference
 
 If you use this code, please cite the following paper.
 
