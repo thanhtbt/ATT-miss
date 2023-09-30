@@ -11,14 +11,18 @@ on both synthetic and real data.
 
 
 ## Dependencies 
-+ Our MATLAB code requires the [Tensor Toolbox](http://www.tensortoolbox.org/) which is already attached to this repository.
-+ MATLAB 2019a
-
++ Our MATLAB code requires the [Tensor Toolbox](http://www.tensortoolbox.org/).
++ MATLAB 2019a or newer.
 
 ## Demo
 + Run demo_xyz.m for synthetic data
 
-## Selected Experimental Results
+## State-of-the-art algorithms for comparison
++ TeCPSGD: “[*Subspace learning and imputation for streaming big data matrices and tensors*](https://ieeexplore.ieee.org/document/7072498)”. **IEEE Trans. Signal Process.**, 2015.
++ TT-FOA:  “[*Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors*](https://ieeexplore.ieee.org/document/9287780)”. **Proc. 28th EUSIPCO,** 2020.
++ ACP & ATD:  “[*Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors*](https://www.cell.com/patterns/fulltext/S2666-3899(23)00104-6)”. **Patterns**, 2023.
+
+## Some Experimental Results
 
 + Noisy data
 
