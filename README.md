@@ -15,7 +15,7 @@ on both synthetic and real data.
 + MATLAB 2019a or newer.
 
 ## Demo
-+ Run demo_xyz.m for synthetic data
++ Run demo_xyz.m for synthetic data.
 
 ## State-of-the-art algorithms for comparison
 + TeCPSGD: “[*Subspace learning and imputation for streaming big data matrices and tensors*](https://ieeexplore.ieee.org/document/7072498)”. **IEEE Trans. Signal Process.**, 2015.
