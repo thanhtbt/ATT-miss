@@ -37,4 +37,4 @@ on both synthetic and real data.
 
 If you use this code, please cite the following paper.
 
-[1] **L.T. Thanh**, K. Abed-Meraim, N. L. Trung and A. Hafiane. “[*A Novel Recursive Least-Squares Adaptive Method For Streaming Tensor-Train Decomposition With Incomplete Observations*](https://www.sciencedirect.com/journal/signal-processing/articles-in-press)”. **Signal Process.**, 2023. [PDF](https://thanhtbt.github.io/files/2023_SP_ATT.pdf)
+[1] **L.T. Thanh**, K. Abed-Meraim, N. L. Trung and A. Hafiane. “[*A Novel Recursive Least-Squares Adaptive Method For Streaming Tensor-Train Decomposition With Incomplete Observations*](https://www.sciencedirect.com/journal/signal-processing/articles-in-press)”. **Signal Process.**, 2023. [[PDF]](https://thanhtbt.github.io/files/2023_SP_ATT.pdf).
