@@ -16,9 +16,9 @@ on both synthetic and real data.
 
 ## Demo
 Please run
-+ `demo_missing.m' to illustrate the performance of ATT in the case of missing data
++ `demo_missing.m` to illustrate the performance of ATT in the case of missing data
 + `demo_noise.m` to illustrate the effect of noise levels on the performance of ATT
-+ `demo_time_varying.m' to illustrate the performance of ATT in nonstationary environments
++ `demo_time_varying.m` to illustrate the performance of ATT in nonstationary environments
 
 ## State-of-the-art algorithms for comparison
 + TeCPSGD: “[*Subspace learning and imputation for streaming big data matrices and tensors*](https://ieeexplore.ieee.org/document/7072498)”. **IEEE Trans. Signal Process.**, 2015.
